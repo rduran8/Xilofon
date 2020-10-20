@@ -1,0 +1,15 @@
+.tecla{
+    height: 25px;
+    width: 25px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.tecla:hover{
+    transition: transform .2s;
+    transform: scale(1.5) 
+}
+
+.tecla1{
+    background-color: red;
+}
